@@ -1,6 +1,6 @@
 ## Olá!, Eu sou o Paulo Alves
 - 🔭 Sou estudante e procuro um estágio.
-- 🌱 Estudando, Front-end: HTML | CSS | JavaScript.
+- 🌱 Estudando, Mobile: Flutter.
 - 📫 Contate-me : ph23.alves@gmail.com
 
  <div>
