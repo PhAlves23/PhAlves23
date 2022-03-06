@@ -1,4 +1,4 @@
-## Olá!, Eu sou o Paulo Alves
+## Olá!, Eu sou o Paulo Alves ⚡ 
 - 🔭 Sou estudante e procuro um estágio.
 - 🌱 Estudando, front-end: HTML, CSS, Javascript, Git, Bootstrap.
 - 📫 Contate-me : ph23.alves@gmail.com
