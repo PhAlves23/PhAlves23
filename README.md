@@ -1,4 +1,4 @@
-## Opa, eaee Ph aqui! ⚡ 
+## Opaa, eae Ph aqui! ⚡ 
 - 🔭 Sou estudante e procuro um estágio.
 - 🌱 Estudando, front-end: HTML, CSS, Javascript, Git, Bootstrap.
 - 📫 Contate-me : ph23.alves@gmail.com
