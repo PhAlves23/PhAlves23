@@ -1,7 +1,7 @@
 ## Opaa, eae Ph aqui! ⚡ 
 - 🔭 Sou estudante e procuro um estágio.
 - 📚 Cursando Análise e desenvolvimento de sistemas na FIAP.
-- 🌱 Estudando, front-end: HTML, CSS, Javascript, Git, Bootstrap.
+- 🌱 Estudando, front-end: HTML, CSS, Javascript, Git, Java, Python.
 - 📫 Contate-me : ph23.alves@gmail.com
 
  <div>
