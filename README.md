@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2B475E&lines=Opaa%2C+eae+Ph+aqui!+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Opaa%2C+eae+Ph+aqui!+%E2%9A%A1)](https://git.io/typing-svg)
  
 - 🔭 Sou estudante e procuro um estágio.
 - 📚 Cursando Análise e desenvolvimento de sistemas na FIAP.
