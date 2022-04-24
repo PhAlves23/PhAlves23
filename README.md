@@ -2,7 +2,7 @@
  
 - 🔭 Sou estudante e procuro um estágio.
 - 📚 Cursando Análise e desenvolvimento de sistemas na FIAP.
-- 🌱 Estudando: HTML, CSS, Javascript, Git, Java, Python.
+- 🌱 Estudando: HTML, CSS, Javascript, Git, Java, Python, SQL.
 - 📫 Contate-me : ph23.alves@gmail.com
 
  <div>
@@ -18,6 +18,7 @@
   <img align="center" alt="Ph-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Ph-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ph-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
  
   <img align="right" alt="" src="">
   
