@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Opaa%2C+eae+Ph+aqui!+%E2%9A%A1)](https://git.io/typing-svg)
  
-- 🔭 Sou estudante e procuro um estágio.
+- 🔭 Sou estudante e procuro estágio.
 - 📚 Cursando Análise e desenvolvimento de sistemas na FIAP.
 - 🌱 Estudando: HTML, CSS, Javascript, Git, Java, Python, SQL.
 - 📫 Contate-me : ph23.alves@gmail.com
