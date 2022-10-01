@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Opaa%2C+eae+Ph+aqui!+%E2%9A%A1)](https://git.io/typing-svg)
  
+ ![fundo youtube](https://user-images.githubusercontent.com/80326186/193373711-80fa9fde-ca01-4085-b3a5-11d4628aadd0.png)
+
+ 
 - 🔭 Sou estudante e procuro estágio.
 - 📚 Cursando Análise e desenvolvimento de sistemas na FIAP.
 - 🌱 Estudando: HTML, CSS, Javascript, Git, Java, Python, SQL.
