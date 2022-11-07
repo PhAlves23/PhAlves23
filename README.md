@@ -5,7 +5,7 @@
  
 - 🔭 Sou estudante e procuro estágio.
 - 📚 Cursando Análise e desenvolvimento de sistemas na FIAP.
-- 🌱 Estudando: HTML, CSS, Javascript, Git, Java, Python, SQL.
+- 🌱 Estudando: HTML, CSS, Javascript, ReactJs, React Native, Git, Java, Python, SQL.
 - 📫 Contate-me : ph23.alves@gmail.com
 
  <div>
