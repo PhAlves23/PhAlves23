@@ -21,7 +21,7 @@
   <img align="center" alt="Ph-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Ph-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="React-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original.svg">
+  <img align="center" alt="React-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original.svg]https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="ReactNative-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native-original.svg">
  
   <img align="right" alt="" src="">
