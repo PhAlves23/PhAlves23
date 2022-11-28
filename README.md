@@ -8,7 +8,6 @@
 - 🌱 Estudando: HTML, CSS, Javascript, ReactJs, React Native, Git, Java, Python, SQL.
 - 📫 Contate-me : ph23.alves@gmail.com
 
-
   <a href="https://github.com/PhAlves23">
  <p align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhAlves23&show_icons=true&theme=tokyonight&title_color=fa9500&text_color=ffd43d&bg_color=2B475E&icon_color=fa9500&hide_border=true&include_all_commits=true&count_private=true"><br/>
@@ -27,7 +26,6 @@
   <img align="center" alt="Ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ph-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="" src="">
-  
 </div>
   
   ##
@@ -45,9 +43,7 @@
 
 <!--
 **PhAlves23/PhAlves23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
