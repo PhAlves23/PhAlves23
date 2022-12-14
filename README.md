@@ -14,7 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhAlves23&layout=compact&langs_count=7&&theme=tokyonight&title_color=fa9500&text_color=fed33d&bg_color=2B475E&icon_color=fa9500&hide_border=true"><br/>
  </p>
  
-<div align='center' style="display: inline_block align: center"><br>
+<div align='center' style="display: inline_block align: center">
+ <br>
   <img align="center" alt="Ph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ph-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,6 +25,7 @@
   <img align="center" alt="Ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ph-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="" src="">
+ 
 </div>
  
   ##
