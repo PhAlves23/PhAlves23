@@ -15,7 +15,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhAlves23&layout=compact&langs_count=7&&theme=tokyonight&title_color=fa9500&text_color=fed33d&bg_color=2B475E&icon_color=fa9500&hide_border=true"><br/>
  </p>
  
- 
 <div align='center' style="display: inline_block align: center">
  <br>
   <img align="center" alt="Ph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
