@@ -4,7 +4,7 @@
 
 - 🔭 Desenvolvedor Mobile React Native
 - 📚 Cursando Análise e desenvolvimento de sistemas na FIAP.
-- 🌱 Estudando: HTML, CSS, Javascript, ReactJs, React Native, Git, Java, Python, SQL.
+- 🌱 Estudando: HTML, CSS, Javascript, Typescript, React.js, React Native, Next.js, Git, Java, Spring, SQL.
 - 📫 Contate-me : ph23.alves@gmail.com
 
  <a href="https://github.com/PhAlves23">
@@ -17,8 +17,18 @@
  
 <div align='center' style="display: inline_block align: center">
  
- <br>
+ <br/>
  
+ <h2 style="margin-left: 330px"><img width="36" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif">Softwares, Languages and Tools:</h2>
+<div style="display: inline_block" align="center">
+    <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
+    <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
+<img align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,py,nextjs,tailwind,sass,nodejs,express,styledcomponents,vercel,bash,threejs,bootstrap,discord,docker,github,jest,kubernetes,prisma,regex,redux,vite,postman,flutter,firebase,eclipse,java,spring,graphql,hibernate,netlify,ai,ps,pr,mysql,figma,xd,maven,powershell" />
+  
+<br/>
+ 
+ <br>
+<!--  
   <img align="center" alt="Ph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ph-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,7 +38,7 @@
   <img align="center" alt="Ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ph-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="" src="">
-</div>
+</div> -->
  
   ##
  
