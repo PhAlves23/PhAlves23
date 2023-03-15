@@ -1,24 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Opaa%2C+eae+Ph+aqui!+%E2%9A%A1)](https://git.io/typing-svg)
  
 <!-- ![fundo youtube](https://user-images.githubusercontent.com/80326186/193373711-80fa9fde-ca01-4085-b3a5-11d4628aadd0.png) -->
-
-- 🔭 Desenvolvedor Mobile React Native
-- 📚 Cursando Análise e desenvolvimento de sistemas na FIAP.
-- 🌱 Estudando: HTML, CSS, Javascript, Typescript, React.js, React Native, Next.js, Git, Java, Spring, SQL.
-- 📫 Contate-me : ph23.alves@gmail.com
+<div>
+ <p text-align="left">🔭 Software Developer</p>
+ <p>📚 Cursando Análise e desenvolvimento de sistemas na FIAP.</p>
+ <p>🌱 Estudando: HTML, CSS, Javascript, Typescript, React.js, React Native, Next.js, Git, Java, Spring, SQL.</p>
+ <p>📫 Contate-me : ph23.alves@gmail.com</p>
+</div> 
 
  <a href="https://github.com/PhAlves23">
- <p align='center'>
+ <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhAlves23&show_icons=true&theme=tokyonight&title_color=fa9500&text_color=ffd43d&bg_color=2B475E&icon_color=fa9500&hide_border=true&include_all_commits=true&count_private=true">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhAlves23&theme=halloween&background=2B475E&hide_border=true"><br/>
+<!--   <br/> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhAlves23&theme=halloween&background=2B475E&hide_border=true"><br/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhAlves23&layout=compact&langs_count=7&&theme=tokyonight&title_color=fa9500&text_color=fed33d&bg_color=2B475E&icon_color=fa9500&hide_border=true"><br/>
  </p>
+
  
 <div align='center' style="display: inline_block align: center">
- 
  <br/>
- 
  <h2 style="margin-left: 330px"><img width="36" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif">Softwares, Languages and Tools:</h2>
 <div style="display: inline_block" align="center">
     <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
