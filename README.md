@@ -9,7 +9,7 @@
 </div> 
 
  <a href="https://github.com/PhAlves23">
- <p align="center">
+ <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhAlves23&show_icons=true&theme=tokyonight&title_color=ffd43d&text_color=ffffff&bg_color=171717&icon_color=FFD43D&hide_border=true&include_all_commits=true&count_private=true">
 <!--   <br/> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhAlves23&theme=halloween&background=2B475E&hide_border=true"><br/> -->
