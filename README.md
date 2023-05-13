@@ -23,7 +23,7 @@
 <div style="display: inline_block" align="center">
     <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
-<img align="center" src="https://skillicons.dev/icons?i=linux,powershell,git,vscode,javascript,typescript,css,html,react,nextjs,sass,nodejs,styledcomponents,vercel,bash,github,redux,vite,postman,eclipse,java,spring,hibernate,ai,ps,pr,mysql,figma,xd,maven" />
+<img align="center" src="https://skillicons.dev/icons?i=linux,powershell,git,vscode,javascript,typescript,css,html,react,nextjs,sass,tailwind,nodejs,styledcomponents,vercel,bash,github,redux,vite,postman,eclipse,java,spring,hibernate,ai,ps,pr,mysql,figma,xd,maven" />
   
 <br/>
  
