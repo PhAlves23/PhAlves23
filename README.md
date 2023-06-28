@@ -19,7 +19,7 @@
  
 <div align='center' style="display: inline_block align: center">
  <br/>
- <h2 style="margin-left: 330px"><img width="36" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif">Softwares, Languages and Tools:</h2>
+ <h2 style="margin-left: 330px"><img width="36" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif">Linguagens e Ferramentas</h2>
 <div style="display: inline_block" align="center">
     <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
