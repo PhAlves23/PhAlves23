@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Opaa%2C+eae+Ph+aqui!+%E2%9A%A1)](https://git.io/typing-svg)
  
 <!-- ![fundo youtube](https://user-images.githubusercontent.com/80326186/193373711-80fa9fde-ca01-4085-b3a5-11d4628aadd0.png) -->
-https://github.com/user-attachments/assets/5b04274e-e8b7-482e-8e98-9386f19a6ebe
-
+![a-digital-illustration-showcases-a-sleek_yboZryOUSVGjMTxqjq6swg_90l_bO3zR8Oxt29WG60tqg](https://github.com/user-attachments/assets/d22cd180-6b39-4bca-88bd-d4ca0554e9de)
 
 
  <a href="https://github.com/PhAlves23">
