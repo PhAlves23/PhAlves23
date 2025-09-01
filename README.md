@@ -1,13 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Opaa%2C+eae+Ph+aqui!+%E2%9A%A1)](https://git.io/typing-svg)
  
 <!-- ![fundo youtube](https://user-images.githubusercontent.com/80326186/193373711-80fa9fde-ca01-4085-b3a5-11d4628aadd0.png) -->
-<div>
- <p text-align="left">🔭 FullStack Developer</p>
- <p>📚 Formado em Análise e desenvolvimento de sistemas na FIAP.</p>
- <p>📚 Cursando Pós Graduação em Software Architecture na FIAP.</p>
- <p>🌐 Meu portfólio: https://phalves.com
- <p>📫 Contate-me : ph23.alves@gmail.com</p>
-</div> 
+![a-digital-illustration-showcases-a-sleek_yboZryOUSVGjMTxqjq6swg_90l_bO3zR8Oxt29WG60tqg](https://github.com/user-attachments/assets/e76dbd74-92f8-48ee-8cf0-5f119279818c)
+
 
  <a href="https://github.com/PhAlves23">
  
@@ -51,5 +46,13 @@
  	<a href="https://www.twitch.tv/phalves_23" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:ph23.alves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ph-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
+
+ <div>
+ <p text-align="left">🔭 FullStack Developer</p>
+ <p>📚 Formado em Análise e desenvolvimento de sistemas na FIAP.</p>
+ <p>📚 Cursando Pós Graduação em Software Architecture na FIAP.</p>
+ <p>🌐 Meu portfólio: https://phalves.com
+ <p>📫 Contate-me : ph23.alves@gmail.com</p>
+</div> 
 </div>
